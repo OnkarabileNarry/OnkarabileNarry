@@ -41,5 +41,7 @@ A comprehensive, live-deployed SaaS application featuring five core modules desi
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/onkarabile-monareng-7a8a21402)
-- 📬 [Email Me](onkanarry2204@gmail.com)
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/onkarabile-monareng-7a8a21402)
+- 📬 [Email Me](mailto:onkanarry2204@gmail.com)
